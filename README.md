@@ -8,8 +8,7 @@ documentation and provides a Swagger UI for interactive API exploration.
 
 ## Watch the Demonstration Video
 
-[Watch the demonstration video]https://github.com/user-attachments/assets/8d3943a7-2f29-42dd-b1bb-0ca544feee53
-
+https://github.com/user-attachments/assets/09029001-7362-4194-80b5-19f4772693f2
 
 ## Prerequisites
 
